@@ -34,7 +34,7 @@ public class Controlador {
 
             retorno = jogar(i, tabelaEmbaralhada);
             if((boolean) retorno[1] == true){
-                System.out.println("Você chegou ao objetivo! \n");
+                System.out.println("Você finalizou o objetivo! \n");
                 Exibidor.exibirTabela((String[][]) retorno[0]);
                 y = true;
             }else{
