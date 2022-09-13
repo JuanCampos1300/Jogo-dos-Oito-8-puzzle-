@@ -15,7 +15,7 @@ public class Mover {
         if(Verificador.verificarEntrada(linhaEspacoBranco,colunaEspacoBranco,
                 linhaValorInserido, colunaValorInserido) == false){
             System.out.println("\n Valor insérido está inválido! ");
-            System.out.println("Insira um valor valido! \n");
+            System.out.println("Insira um valor correto! \n");
 
             return tabelaEmbaralhada;
         }
