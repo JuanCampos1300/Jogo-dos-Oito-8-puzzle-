@@ -8,9 +8,9 @@ Estado final ou vitória:
 
 
 Exemplo de estado inicial ou embaralhado:
-1 2 3
-4 8 6
-7 5
+   1 2 3
+   4 8 6
+   7 5
 
 
 Objetivo:  
